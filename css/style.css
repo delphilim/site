@@ -1,0 +1,59 @@
+a .fa {
+	color: #cccccc;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+a .fa:hover {
+	color: #ffffff;
+}
+
+blockquote {
+	border: 2px solid #666666;
+	padding: 5%;
+}
+
+body {
+	/*background-image: url("../images/background.jpg");*/
+  	background-size: 100%;
+  	background-position: center top;
+	text-align: center;
+}
+
+body h1, h2, h3 {
+	font-family: 'Oswald', sans-serif;
+}
+
+body p {
+	font-family: 'Nunito', sans-serif;
+}
+
+.contact .row {
+	padding: 0%;
+}
+
+.logo {
+	font-family: 'Codystar', cursive;
+	font-size: 650%;
+}
+
+.row {
+	padding: 10% 0%;
+}
+
+.why .fa {
+	color: #666666;
+	padding: 20% 0% 10% 0%;
+}
+.why p {
+	padding: 0 5%;
+}
+
+@media (max-width: 767px) {
+    body {
+        background-size: 768px;
+    }
+
+	.why .fa {
+		padding: 5% 0%;
+	}
+}
