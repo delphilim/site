@@ -1,5 +1,5 @@
 :root {
-	--accent-color: #229988;
+	--accent-color: #333333;
 }
 
 a .fa {
@@ -17,7 +17,7 @@ blockquote {
 }
 
 body {
-	/*background-image: url("../images/background.jpg");*/
+	background-image: linear-gradient(to bottom, rgba(255,255,255,0.9) 0%,rgba(255,255,255,1) 100%),url("http://78.media.tumblr.com/ace910eba06d76e4295f3dba16beba26/tumblr_ovfclrVtPi1sfie3io1_1280.jpg");
   	background-size: 100%;
   	background-position: center top;
 	text-align: center;
