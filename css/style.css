@@ -1,5 +1,5 @@
 :root {
-	--accent-color: #333333;
+	--accent-color: #666666;
 }
 
 a .fa {
@@ -8,7 +8,11 @@ a .fa {
 	padding-right: 15px;
 }
 a .fa:hover {
-	color: #666666;
+	color: #333333;
+}
+
+audio {
+	width: 80%;
 }
 
 blockquote {
@@ -18,7 +22,7 @@ blockquote {
 
 body {
 	background-image: linear-gradient(to bottom, rgba(255,255,255,0.9) 0%,rgba(255,255,255,1) 100%),url("http://78.media.tumblr.com/ace910eba06d76e4295f3dba16beba26/tumblr_ovfclrVtPi1sfie3io1_1280.jpg");
-  	background-size: 100%;
+  	background-size: cover;
   	background-position: center top;
 	text-align: center;
 	position:relative;
@@ -30,15 +34,26 @@ body h1, h2, h3 {
 
 body p {
 	font-family: 'Nunito', sans-serif;
+	font-size: 150%;
 }
 
 ul {
-	list-style-position: inside;
+	display: inline-block;
+	font-size: 130%;
+	list-style: none;
+	text-align: left;
+}
+li:before {
+	color: var(--accent-color);
+  	content: '\f00c';
+  	margin-right: 10px;
+  	font-family: FontAwesome;
 }
 
+/*
 .active {
 	border-bottom: 3px solid var(--accent-color);
-}
+}*/
 
 .logo {
 	font-family: 'Codystar', cursive;
@@ -54,7 +69,10 @@ ul {
 }
 
 .reviews {
-	padding: 5%;
+	padding: 3% 0 5% 0;
+}
+.reviews p{
+	font-size: 100%;
 }
 
 .why {
@@ -62,13 +80,17 @@ ul {
 }
 .why .fa {
 	color: var(--accent-color);
-	padding: 5% 0% 10% 0%;
+	padding: 10% 0% 5% 0%;
 }
 .why p {
 	padding: 0 5%;
 }
 
 @media (max-width: 767px) {
+	audio {
+		width: 100%
+	}
+
     body {
         background-size: 768px;
     }
