@@ -87,19 +87,7 @@ li:before {
 }
 
 @media (max-width: 767px) {
-	audio {
-		width: 100%
-	}
-
     body {
         background-size: 768px;
     }
-
-    .reel {
-    	padding: 20%;
-    }
-
-	.why .fa {
-		padding: 5% 0%;
-	}
 }
