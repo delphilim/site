@@ -2,13 +2,14 @@
 	--accent-color: #666666;
 }
 
-a .fa {
+a {
 	color: var(--accent-color);
-	padding-left: 15px;
-	padding-right: 15px;
+	font-family: 'Nunito', sans-serif;
 }
-a .fa:hover {
+a:hover {
 	color: #333333;
+	font-weight: bold;
+	text-decoration: none;
 }
 
 audio {
@@ -57,7 +58,12 @@ li:before {
 
 .logo {
 	font-family: 'Codystar', cursive;
-	font-size: 650%;
+	font-size: 900%;
+}
+.logo-div {
+	 display: flex;
+    justify-content: center;
+    align-items: flex-end;
 }
 
 .navbar {
@@ -75,9 +81,13 @@ li:before {
 	font-size: 100%;
 }
 
-.why {
-	padding: 5%;
+.videos {
+	padding: 2%;
 }
+
+/*.why {
+	padding: 5%;
+}*/
 .why .fa {
 	color: var(--accent-color);
 	padding: 10% 0% 5% 0%;
