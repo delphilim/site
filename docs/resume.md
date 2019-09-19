@@ -1,30 +1,34 @@
 # Delphi Lim
-**Voice-over Artist**   |   delphilim.ml   |   delphilim@gmail.com
+**Voice-over Artist**   |   delphilim.com   |   delphilim@gmail.com
 ___
 ## Services
 * Game and animation characters
 * Radio and television commercials
 * Educational or corporate voice-overs
-* Singing and rap
+* Vocals for songs
 
 ## Clients
 #### Game
-* Tuomo's games: Strangers of the Power - Trancevania
-* Chloe Lamb: Wanderer's Quest
-* RubyJCat: Left of Center fandub
-* fishwind: Hero as a Hobby
+* **Fisher** in The Murder Express (Suits n' Nukes)
+* **Pandora Swinehart** in Entomophantasm (shogako)
+* **Isabel** in Strangers of the Power - Trancevania (Tuomo's games)
+* **Weapon Shop Girl** in Strangers of the Power 2 (Tuomo's games)
+* **Unity-chan** in Hero as a Hobby (fishwind)
+* **Extra** in Chloe Lamb: Wanderer's Quest
+* **Pollyanna** in Left of Center (fandub by RubyJCat)
 #### Animation
-* The Moose: Nendoroid Adventures
-* Phooka Animation: Ocean Magic
-* QuestionedTurkey: D.&#8203;Va Gets Drunk
+* **Zeros** in Neros Q (Nero)
+* **Marina** in Ocean Magic (Phooka Animation)
+* **Hoppou** in Nendoroid Adventures (Nendo Adventures)
+* **D.&#8203;Va** in D.&#8203;Va Gets Drunk (fan animation by QuestionedTurkey)
 #### E-Learning
-* NUS Business School: ACC1006
+* Voice-over for ACC1006 (NUS Business School)
 
 ## The Voice
-* Neutral accent or Singaporean accent
+* Neutral accent to Asian accent
 * Bright, cheerful tone for corporate or educational videos
-* Mid to high range female voice - can portray child, teenager or young adult
-* Languages: English, Mandarin Chinese (Singapore), Japanese
+* Mid to high range female voice - can portray child, teenager, young adult and adult
+* Languages: English, Mandarin Chinese (Singapore)
 
 ## Training
 * Voice Studies and Production by Samosir, Nora Anny
@@ -36,6 +40,5 @@ ___
 * Hosting and emceeing background
 
 ## Equipment
-* AKG D5 Professional Dynamic Vocal Microphone
-* Logic Pro X
+* Heil PR40 Dynamic Studio Microphone
 * Studio-quality acoustic treatment
